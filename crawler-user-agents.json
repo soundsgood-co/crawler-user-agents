@@ -870,8 +870,18 @@
     "url": "http://www.deadlinkchecker.com"
   },
   {
+    "pattern": "Slackbot-LinkExpanding",
+    "addition_date": "2016/09/14",
+    "url": "https://api.slack.com/robots"
+  },
+  {
     "pattern": "Slack-ImgProxy",
     "addition_date": "2016/04/25",
+    "url": "https://api.slack.com/robots"
+  },
+  {
+    "pattern": "Slackbot",
+    "addition_date": "2016/09/14",
     "url": "https://api.slack.com/robots"
   },
   {
