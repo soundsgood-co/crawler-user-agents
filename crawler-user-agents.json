@@ -915,5 +915,10 @@
     "pattern": "Pinterest",
     "addition_date": "2016/09/14",
     "url": "http://www.pinterest.com"
+  },
+  {
+    "pattern": "Instagram",
+    "addition_date": "2016/09/14",
+    "url": "https://www.instagram.com"
   }
 ]
