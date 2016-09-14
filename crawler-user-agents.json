@@ -910,5 +910,10 @@
     "pattern": "LinkedInBot",
     "addition_date": "2016/09/14",
     "url": "http://www.linkedin.com"
+  },
+  {
+    "pattern": "Pinterest",
+    "addition_date": "2016/09/14",
+    "url": "http://www.pinterest.com"
   }
 ]
