@@ -1,0 +1,16 @@
+{
+  "name": "crawler-user-agents",
+  "version": "1.0.0",
+  "description": "A list of of HTTP user-agents used by robots/crawlers/spiders",
+  "main": "./crawler-user-agents.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monperrus/crawler-user-agents.git"
+  },
+  "author": "Martin Monperrus",
+  "license": "CC BY-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/monperrus/crawler-user-agents/issues"
+  },
+  "homepage": "https://github.com/monperrus/crawler-user-agents#readme"
+}
