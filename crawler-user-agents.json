@@ -920,5 +920,10 @@
     "pattern": "Instagram",
     "addition_date": "2016/09/14",
     "url": "https://www.instagram.com"
+  },
+  {
+    "pattern": "Iframely",
+    "addition_date": "2016/09/16",
+    "url": "http://iframely.com"
   }
 ]
